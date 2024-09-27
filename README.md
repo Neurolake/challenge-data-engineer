@@ -38,4 +38,4 @@ Para este desafio prático, esperamos que todos os materiais entregues sejam leg
 
 - De 2020 a 2023, as bases possuíam um formato e encontram-se na pasta [../iptu_20_23](https://github.com/Neurolake/challenge-data-engineer/tree/main/iptu_20_23)
 
-- No ano de 2024, houve uma mudança no formato do arquivo, que encontra-se na pasta [../iptu_24](../iptu_24)
+- No ano de 2024, houve uma mudança no formato do arquivo, que encontra-se na pasta [../iptu_24](https://github.com/Neurolake/challenge-data-engineer/tree/main/iptu_24)
